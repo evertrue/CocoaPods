@@ -67,7 +67,7 @@ PATH
   remote: .
   specs:
     cocoapods (0.33.1)
-      activesupport (>= 3.2.15, < 4)
+      activesupport
       claide (~> 0.6.1)
       cocoapods-core (= 0.33.1)
       cocoapods-downloader (~> 0.6.1)
